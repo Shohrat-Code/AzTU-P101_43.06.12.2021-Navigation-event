@@ -1,0 +1,9 @@
+body {
+  height: 2000px;
+}
+
+.required {
+  display: none;
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */
